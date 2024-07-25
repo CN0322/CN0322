@@ -4,8 +4,8 @@ Some things about me:
 1. I play FlightGear(Flight simulator)
 2. I love birds and animals
 3. Environmentalist
-4. Loves far left ideologies 🥶
-5. History nerd
+4. I loves far left ideologies 🥶
+5. History geek
 
 What I plan to contribute to FlightGear:
 1. Inflatoplane 🎈
