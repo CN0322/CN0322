@@ -14,3 +14,9 @@ What I plan to contribute to FlightGear:
 4. Kamov 26
 
 Gonna take a while since I gotta learn how to use blender...
+
+Here, have a cool screenshot:
+
+![cool-screenshot](https://i.imgur.com/b2L0iK0.jpeg)
+
+:D
