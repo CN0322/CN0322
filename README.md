@@ -2,10 +2,10 @@ Hello, I'm CN0322! I'm pretty new to coding so don't expect to much :D
 
 Some things about me:
 1. I play FlightGear(Flight simulator)
-2. I love birds and animals
+2. Introvert with social anxiety
 3. Environmentalist
 4. I loves far left ideologies 🥶
-5. History geek
+5. I love history & politics :D
 
 What I plan to contribute to FlightGear:
 1. Inflatoplane 🎈
