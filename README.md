@@ -4,7 +4,7 @@ Some things about me:
 1. I play FlightGear(Flight simulator)
 2. Introvert with social anxiety
 3. Environmentalist
-4. Far left ideologies are good in theory 🥶
+4. БЛЯТЬ, ТРАКТОР!!!🚜🚜🚜💨
 5. I love history & politics :D
 
 What I plan to contribute to FlightGear:
